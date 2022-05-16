@@ -1,0 +1,4 @@
+numpy
+rawpy
+opencv-python-headless
+azure-cognitiveservices-vision-computervision

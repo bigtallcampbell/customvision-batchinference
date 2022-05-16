@@ -1,0 +1,9 @@
+{
+    "__comment": "This file allows us to easily pass the parameters to the script while protecting the credentials.  Save this to another directory.",
+    "CUSTOM_VISION_ENDPOINT": "endpoint url",
+    "CUSTOM_VISION_PROJECT_ID": "project id",
+    "CUSTOM_VISION_KEY": "abc123",
+    "CUSTOM_VISION_PUBLISHED_ITERATION_NAME": "ScreencastDemo",
+    "SOURCE_FOLDER": "/somefolder/test",
+    "PROBABILIY_THRESHOLD": 0.1
+}
